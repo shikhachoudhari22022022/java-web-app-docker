@@ -24,11 +24,11 @@
 		<h1>${title}</h1>
 		<p>
 			<c:if test="${not empty msg}">
-				Hello ${msg}
+				Mission Acomplished ${msg}
 			</c:if>
 
 			<c:if test="${empty msg}">
-				Welcome Welcome!
+				Party Party!
 			</c:if>
 		<p>
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Hello Allie and Mr. Sarang, this application is my first web based application</h2>
+			<h3>Please feel happy for me</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Shikha Choudhari</p>
 	</footer>
 </div>
 
