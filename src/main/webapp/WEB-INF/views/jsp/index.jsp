@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>New Wesite</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">Shikha</a>
 		</div>
 	</div>
 </nav>
@@ -31,7 +31,7 @@
 				Party Party!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">Join Party</a>
 		</p>
 	</div>
 </div>
